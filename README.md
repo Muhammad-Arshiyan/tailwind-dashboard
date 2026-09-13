@@ -57,11 +57,7 @@ Open `index.html` directly in your browser, or use **VS Code Live Server**.
 
 ## 🌐 Live Preview
 
-Add your deployed project link here:
-
-```text
-https://your-live-demo-url.com
-```
+https://tailwind-modern-dashboard.vercel.app/
 
 ## 👨‍💻 Author
 
