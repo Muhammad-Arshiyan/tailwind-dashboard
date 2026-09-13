@@ -33,7 +33,6 @@ tailwind-dashboard/
 │
 ├── index.html
 ├── script.js
-├── preview.png
 └── README.md
 ```
 
