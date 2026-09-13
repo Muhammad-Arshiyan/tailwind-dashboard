@@ -13,6 +13,7 @@ A modern, clean, and fully responsive dashboard built using **HTML5** and **Tail
 - 📱 Responsive sidebar navigation
 - 🎨 Clean and modern UI
 - 🧹 Clean and organized code
+- ⚡ JavaScript-powered interactive functionality
 
 ## 🛠️ Technologies Used
 
